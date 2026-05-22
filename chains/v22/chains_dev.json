@@ -5388,8 +5388,8 @@
         "explorers": [
             {
                 "name": "Subscan",
-                "extrinsic": "https://hydradx.subscan.io/extrinsic/{hash}",
-                "account": "https://hydradx.subscan.io/account/{address}"
+                "extrinsic": "https://hydration.subscan.io/extrinsic/{hash}",
+                "account": "https://hydration.subscan.io/account/{address}"
             }
         ],
         "externalApi": {
